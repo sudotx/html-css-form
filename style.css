@@ -1,0 +1,68 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#checking-form {
+    border: 1px solid gray;
+    padding: 20px;
+    margin: auto;
+    width: 50%;
+    border-radius: 20px;
+    box-shadow: 2px 5px gray;
+    display: flex;
+}
+
+div#hero-section {
+    display: flex;
+    margin: 20px;
+}
+
+.checking-form-input {
+    margin: 20px;
+}
+
+#my-form {
+    align-items: center;
+    margin: auto;
+    padding: 20px;
+}
+
+#my-form h1 {
+    text-align: center;
+}
+
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: purple;
+    color: white;
+}
+
+#navbar h1 {
+    display: inline;
+}
+
+#navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    padding: 10px;
+}
+
+#navbar a {
+    text-decoration: none;
+    color: white;
+}
+
+#navbar a:hover {
+    color: red;
+}
+
+.header-section h1 {
+    text-align: center;
+}
+
+.header-section {
+    background-color: white;
+}

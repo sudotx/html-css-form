@@ -66,3 +66,9 @@ div#hero-section {
 .header-section {
     background-color: white;
 }
+
+footer#contact-section {
+    display: flex;
+    background-color: purple;
+    justify-content: space-between;
+}
